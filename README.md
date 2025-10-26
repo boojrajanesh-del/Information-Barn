@@ -1,1 +1,19 @@
 # Information-Barn
+
+Collaborator- Prakash Dindyal
+
+Purpose- the purpose of this repository is to facilitate collaboration between classmates for a ITE1100 tutorial
+
+Steps followed:
+
+Created the repository
+Added Prakash Dindyal as a collaborator.
+Created a second branch in my repository
+Added a sample file.
+Commited the file with the message, "Added sample file for tutorial".
+Pushed the new branch and created a pull request, selecting the collaborator as the reviewer.
+Merged the approved pull into the main branch.
+
+Names of collaborators:
+Anesh Booj-Raj
+Prakash Dindyal
